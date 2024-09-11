@@ -123,4 +123,4 @@ plt.show()
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/99377b4d-3903-44e1-b1ed-68be6298b5f9)
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+By using this code we can perform Exploratory Data Analysis on the given data set.
